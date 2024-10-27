@@ -1,1 +1,1 @@
-web: node server.js
+web: node LINCE-ESC_BE-server\src\server.js
